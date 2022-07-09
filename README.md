@@ -30,6 +30,9 @@ load cells
 # Flowchart
 ![image](https://user-images.githubusercontent.com/84243901/178093997-db82976c-d7c6-4112-a3fa-cf6f8d04e525.png)
 
+![image](https://user-images.githubusercontent.com/84243901/178094444-bd4b1733-8732-41c8-a0a7-e4c313126268.png)
+
+
 # Data Sheets used for components
 1. Load cell
 https://docs.rs-online.com/0252/A700000007176385.pdf
